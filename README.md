@@ -188,9 +188,23 @@ tions.md…]()
   <summary>📜 Task 4 : RISC-V Core Functional Simulation
   </summary>
 1. Installing iverilog and gtkwave
+  
    Open your terminal and type the following to install 
    iverilog and GTKWave
-$ echo hello
+
+    sudo apt install iverilog
+    sudo apt install gtkwave
+    
+2. To run and simulate the verilog code
+   
+   iverilog -o iiitb_rv32i iiitb_rv32i.v iiitb_rv32i_tb.v
+   ./iiitb_rv32i
+
+3. To see the simulation waveform in GTKWave
+   
+    gtkwave iiitb_rv32i.vcd
+    
+
 
 
 
