@@ -218,14 +218,20 @@ tions.md…]()
 3. beq r0,r0,r15
 ![beq](https://github.com/user-attachments/assets/437e502e-ab45-4e3f-9846-acc20cf1a0ee)
 
-6. xor r10,r1,r4
+4. xor r10,r1,r4
 ![xor](https://github.com/user-attachments/assets/d9b45186-0549-481c-9657-ea59c682da2e)
 
-7. sub r7,r1,r2
+5. sub r7,r1,r2
 ![sub1](https://github.com/user-attachments/assets/c22924cb-3e9b-4a33-9776-11631a6b74aa)
 
-8. slt r11,r2,r4
+6. slt r11,r2,r4
 ![slt](https://github.com/user-attachments/assets/5f1cf316-8bd2-45d9-802d-fa7a3e855e64)
+
+7. or r9,r2,r5
+![or](https://github.com/user-attachments/assets/586fd6ed-238f-4d27-8590-c6721efb70b7)
+
+8. addi r12,r4,5
+![addi](https://github.com/user-attachments/assets/d7c794c3-0453-4ec0-a860-11e593029115)
 
 
 
