@@ -184,6 +184,15 @@ Registers: rd = a0 = 00010, rs1 = x0 = 00000
 tions.md…]()
 </details>
 
+<details>
+  <summary>📜 Task 4 : RISC-V Core Functional Simulation
+  </summary>
+1. Installing iverilog and gtkwave
+   Open your terminal and type the following to install 
+   iverilog and GTKWave
+   sudo apt install iverilog
+   sudo apt install gtkwave
+</details>
 
 
 
