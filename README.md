@@ -236,6 +236,8 @@ tions.md…]()
 waveforms
 ![waveforms](https://github.com/user-attachments/assets/b37e106d-f853-4a04-99e8-420fa8d44038)
 
+</details>
+
 <details>
   <summary>📜 Task 5 : Project Overview  </summary>
 
@@ -291,22 +293,6 @@ Odd Parity: If the number of 1s is odd, the parity LED (PC3) turns ON (1) Detect
 This is a simple error detection mechanism used in communication systems.
 
 </details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
