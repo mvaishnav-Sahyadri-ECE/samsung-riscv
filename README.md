@@ -325,9 +325,7 @@ Code
 </details>
 
 
-### Acknowledgement
 
-   [Kunal Ghosh,Co-Founder at VLSI System Design](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/)
 
 
 
