@@ -204,6 +204,8 @@ tions.md…]()
    
     gtkwave iiitb_rv32i.vcd
     
+32-bits instruction
+
 
 
 
