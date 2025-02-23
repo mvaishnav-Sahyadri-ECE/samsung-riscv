@@ -1,4 +1,4 @@
-[3 bit Parity Checker.txt](https://github.com/user-attachments/files/18933678/3.bit.Parity.Checker.txt)[Components Required.txt](https://github.com/user-attachments/files/18933659/Components.Required.txt)<details>
+<details>
   <summary>📜 Task 1 : Development of C Based LAB </summary>
 
 ![C Code compiled on gcc Compiler](https://github.com/user-attachments/assets/bd8429ec-23df-4fa4-9ca7-788d9e5befa7)
@@ -187,6 +187,7 @@ tions.md…]()
 <details>
   <summary>📜 Task 4 : RISC-V Core Functional Simulation
   </summary>
+  
 1. Installing iverilog and gtkwave
   
    Open your terminal and type the following to install 
