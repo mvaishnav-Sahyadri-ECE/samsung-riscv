@@ -193,10 +193,9 @@ tions.md…]()
    ```sh
 sudo apt install iverilog
 sudo apt install gtkwave
-   ```sh
+```sh
 iverilog -o iiitb_rv32i iiitb_rv32i.v iiitb_rv32i_tb.v
 ./iiitb_rv32i
-</details>
 
 
 
