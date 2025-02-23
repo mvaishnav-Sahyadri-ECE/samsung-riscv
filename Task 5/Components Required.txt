@@ -1,0 +1,14 @@
+Components Required:
+
+Microcontroller – VSDsquadron mini
+
+LEDs (at least 4) – To represent binary values and parity
+
+Resistors (~220Ω for LEDs)
+
+Push Buttons (3) – To simulate binary input (Here I simulated switch Manually)
+
+Breadboard – For easy circuit assembly
+
+Jumper Wires – For connections
+
