@@ -11,6 +11,85 @@
 
 ![Objdump using -Ofast format](https://github.com/user-attachments/assets/4a0f67a8-af2b-436a-91a5-c1b3fab28aa5)
 
+<details>
+  <summary>📜 Task 2 : Simulation with Spike </summary>
+
+![Debugging in -O1](https://github.com/user-attachments/assets/ff05cc31-cb15-4532-bff6-a316e5f23cc1)
+
+![Debugging in Ofast](https://github.com/user-attachments/assets/7cb3355e-e048-4d71-b4ee-3cf634b47b2c)
+
+![Objdump in -O1 Format](https://github.com/user-attachments/assets/4552d0c2-eedc-4b80-a6e0-a9b534cdb5ca)
+
+![objdump in -Ofast](https://github.com/user-attachments/assets/75e01393-ff8c-4d51-9a07-86361e636014)
+
+![Spike Simulation](https://github.com/user-attachments/assets/bc55c580-9bf2-45f5-be19-8a8468126369)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
