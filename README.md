@@ -1,5 +1,8 @@
-# Samsung-riscv
+# Samsung-riscv 
 
+This internship program focuses on RISC-V architecture using the VSDSquadron Mini platform. It leverages open-source tools to provide students with hands-on experience in VLSI SoC design and RISC-V development.
+
+Guided by Mr. Kunal Ghosh, Co-Founder of VSD, this program offers an opportunity to gain practical knowledge and industry insights in RISC-V
 
 
 
