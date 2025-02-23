@@ -1,4 +1,4 @@
-https://github.com/mvaishnav-Sahyadri-ECE/samsung-riscv/edit/main/README.md
+# Samsung-riscv
 
 
 
