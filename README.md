@@ -233,6 +233,9 @@ tions.md…]()
 8. addi r12,r4,5
 ![addi](https://github.com/user-attachments/assets/d7c794c3-0453-4ec0-a860-11e593029115)
 
+waveforms
+![waveforms](https://github.com/user-attachments/assets/b37e106d-f853-4a04-99e8-420fa8d44038)
+
 
 
 
