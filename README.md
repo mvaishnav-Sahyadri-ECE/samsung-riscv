@@ -1,4 +1,4 @@
-[main.txt](https://github.com/user-attachments/files/18933778/main.txt)<details>
+<details>
   <summary>📜 Task 1 : Development of C Based LAB </summary>
 
 ![C Code compiled on gcc Compiler](https://github.com/user-attachments/assets/bd8429ec-23df-4fa4-9ca7-788d9e5befa7)
