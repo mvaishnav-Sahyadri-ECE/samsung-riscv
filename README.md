@@ -203,11 +203,25 @@ tions.md…]()
 3. To see the simulation waveform in GTKWave
    
     gtkwave iiitb_rv32i.vcd
-    
+   
+![terminalinstructions](https://github.com/user-attachments/assets/dfb8947f-cea8-4fc5-a9f9-7946365be2dc)
+
 32-bits instruction
 
+![instructions](https://github.com/user-attachments/assets/dc8821ed-a8c7-464d-8f2d-1abdce3ecc77)
 
+1. add
+   
+![add](https://github.com/user-attachments/assets/f3aa4dc6-1e62-40a6-9db6-10aea5ae7ab2)
 
+2. and
+
+![and](https://github.com/user-attachments/assets/5dc78647-5430-41ff-b4d0-95059f9f65e7)
+   
+3. beq
+
+![beq](https://github.com/user-attachments/assets/437e502e-ab45-4e3f-9846-acc20cf1a0ee)
+   
 
 
 
