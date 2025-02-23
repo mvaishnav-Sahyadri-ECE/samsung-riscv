@@ -1,4 +1,4 @@
-[RISCV_32bit_instructions.md](https://github.com/user-attachments/files/18933238/RISCV_32bit_instructions.md)<details>
+<details>
   <summary>📜 Task 1 : Development of C Based LAB </summary>
 
 ![C Code compiled on gcc Compiler](https://github.com/user-attachments/assets/bd8429ec-23df-4fa4-9ca7-788d9e5befa7)
@@ -31,7 +31,6 @@
 
 ![Objdump in -O1 Format](https://github.com/user-attachments/assets/82cfea2b-41b0-40d6-a244-d321eb30b4d4)
 
-[Uploading RISCV_32bit_instruc# RISC-V 32-bit Instruction Patterns
 
 ## 1. addi sp, sp, -16
 Opcode(ADDI): 0010011  
