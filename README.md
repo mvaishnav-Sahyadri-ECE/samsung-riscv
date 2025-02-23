@@ -10,6 +10,7 @@
 ![Objdump using -O1 format](https://github.com/user-attachments/assets/de0dfade-b114-4417-a3c5-ca6e793e1961)
 
 ![Objdump using -Ofast format](https://github.com/user-attachments/assets/4a0f67a8-af2b-436a-91a5-c1b3fab28aa5)
+</details>
 
 <details>
   <summary>📜 Task 2 : Simulation with Spike </summary>
