@@ -374,8 +374,6 @@ int compute_parity(int num)
     return count % 2;
 }
 
-
-
 </details>
 
 
