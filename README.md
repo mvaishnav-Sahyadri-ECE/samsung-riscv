@@ -2,7 +2,7 @@
 
 This internship program focuses on RISC-V architecture using the VSDSquadron Mini platform. It leverages open-source tools to provide students with hands-on experience in VLSI SoC design and RISC-V development.
 
-This program offers an opportunity to gain practical knowledge and industry insights in RISC-V
+This program offers an opportunity to gain practical knowledge and industry insights in RISC-V. This program is guided by Mr. Kunal Ghosh, Co-Founder of VSD.
 
 ![351267939-0f0091ae-8a07-4903-ac24-8c1342084913](https://github.com/user-attachments/assets/3f1a1487-39f5-4a6e-934b-ac096a627db0)
 
@@ -327,7 +327,7 @@ Code
 
 ## Acknowledgement
 
-https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/
+   [Kunal Ghosh,Co-Founder at VLSI System Design](https://www.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836/)
 
 
 
