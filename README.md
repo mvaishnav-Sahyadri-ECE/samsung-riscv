@@ -186,7 +186,7 @@ tions.md…]()
 
 <details>
   <summary>📜 Task 4 : RISC-V Core Functional Simulation
-  </summary>
+  </summary> Run the command as follows :
 1. Installing iverilog and gtkwave
   
    Open your terminal and type the following to install 
