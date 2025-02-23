@@ -6,5 +6,5 @@
 ![Cat command for Code Display](https://github.com/user-attachments/assets/74a1abf3-eedb-4ba6-95a7-5909bdb9cfdc)
 ![C Code compiled on riscv gcc Compiler](https://github.com/user-attachments/assets/f7bb5ca0-61f1-4f7a-9989-2d56cc24463a)
 ![C Code compiled on gcc Compiler](https://github.com/user-attachments/assets/d38f59b1-0ba6-4279-80ef-082fbf780948)
-1 : Development of C Based LAB </summary>
+
   
