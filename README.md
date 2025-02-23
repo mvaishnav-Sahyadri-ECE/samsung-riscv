@@ -190,7 +190,7 @@ tions.md…]()
 1. Installing iverilog and gtkwave
    Open your terminal and type the following to install 
    iverilog and GTKWave
-  $ how to put shell cammand in readme github
+  $ echo hello
 
 
 
