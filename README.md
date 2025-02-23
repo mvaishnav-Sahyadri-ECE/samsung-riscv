@@ -1,5 +1,5 @@
-Development of C Based LAB
-<details>
+
+<Development of C Based LAB>
  ffewf
   
 </details>
