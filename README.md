@@ -194,7 +194,6 @@ tions.md…]()
 
     sudo apt install iverilog
     sudo apt install gtkwave
-    
 2. To run and simulate the verilog code
    
    iverilog -o iiitb_rv32i iiitb_rv32i.v iiitb_rv32i_tb.v
