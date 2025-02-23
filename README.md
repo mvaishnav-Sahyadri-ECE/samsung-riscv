@@ -1,5 +1,3 @@
 
-<Development of C Based LAB>
- ffewf
-  
-</Development of C Based LAB>
+<details>
+  <summary>📜 Task 1 : Development of C Based LAB </summary>
