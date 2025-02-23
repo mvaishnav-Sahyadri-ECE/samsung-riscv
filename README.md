@@ -1,4 +1,4 @@
-<details>
+[3 bit Parity Checker.txt](https://github.com/user-attachments/files/18933678/3.bit.Parity.Checker.txt)[Components Required.txt](https://github.com/user-attachments/files/18933659/Components.Required.txt)<details>
   <summary>📜 Task 1 : Development of C Based LAB </summary>
 
 ![C Code compiled on gcc Compiler](https://github.com/user-attachments/assets/bd8429ec-23df-4fa4-9ca7-788d9e5befa7)
@@ -236,7 +236,61 @@ tions.md…]()
 waveforms
 ![waveforms](https://github.com/user-attachments/assets/b37e106d-f853-4a04-99e8-420fa8d44038)
 
+<details>
+  <summary>📜 Task 5 : Project Overview  </summary>
 
+1. Circuit Diagram
+   ![Circuit Diagram](https://github.com/user-attachments/assets/0bcb1d67-c8bc-47cd-8735-87b48a8893a8)
+
+2. Components Required
+
+   Microcontroller – VSDsquadron mini
+
+   LEDs (at least 4) – To represent binary values and parity
+
+   Resistors (~220Ω for LEDs)
+
+   Push Buttons (3) – To simulate binary input (Here I 
+   simulated switch Manually)
+
+   Breadboard – For easy circuit assembly
+
+   Jumper Wires – For connections
+
+3. Table for pin connections
+   ![Table for pin connections](https://github.com/user-attachments/assets/e891b009-6031-4323-b64e-954a7a6a5782)
+
+4. Example scenario
+   ![Table for pin connections](https://github.com/user-attachments/assets/7261159b-6417-4f1f-a894-42e956460cd3)
+
+5. Overview of application
+
+A parity checker is a logic circuit used to detect errors in transmitted data. It verifies the correctness of the received data by analyzing the parity bit, which is an extra bit added to the original data to ensure the total number of 1s is either even or odd.
+
+There are two main types of parity checkers: even parity checkers and odd parity checkers. An even parity checker counts the number of 1s in the received data and ensures that the total number of 1s is even, including the parity bit. If the count is odd, it indicates an error.
+Conversely, an odd parity checker ensures that the total number of 1s is odd. If the count is even, it indicates an error.
+
+In My project, LEDs represent binary data, and a 4th LED indicates the parity (error detection).
+
+🔹 How It Works?
+-Three LEDs (PC0, PC1, PC2) Represent a 3-Bit Binary Number
+
+-Each LED ON = 1, OFF = 0
+
+-The combination of ON/OFF states forms a 3-bit binary input
+ User Inputs Data by Connecting PC4, PC5, PC6 to VCC (1) or GND (0)
+
+-If an input pin is left open, an internal pull-down resistor ensures it is read as 0
+
+-When connected to VCC, it is read as 1 The System Computes Parity
+
+-Even Parity: If the number of 1s in the binary input is even, the parity LED (PC3) remains OFF (0)
+Odd Parity: If the number of 1s is odd, the parity LED (PC3) turns ON (1) Detecting Errors
+
+-If the expected parity and computed parity do not match, it indicates a possible error.
+This is a simple error detection mechanism used in communication systems.
+
+</details>
 
 
 
