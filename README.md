@@ -1,10 +1,19 @@
-
 <details>
-  <summary>📜 Task 1 : Development of C Based LAB 
-![Objdump using -Ofast format](https://github.com/user-attachments/assets/50eb0b63-4f7e-498b-9708-0cfdc48ae0e1)
-![Objdump using -O1 format](https://github.com/user-attachments/assets/96c45f2f-957e-494e-92f7-627d906488f8)
-![Cat command for Code Display](https://github.com/user-attachments/assets/74a1abf3-eedb-4ba6-95a7-5909bdb9cfdc)
-![C Code compiled on riscv gcc Compiler](https://github.com/user-attachments/assets/f7bb5ca0-61f1-4f7a-9989-2d56cc24463a)
-![C Code compiled on gcc Compiler](https://github.com/user-attachments/assets/d38f59b1-0ba6-4279-80ef-082fbf780948)
-</summary> 
-  
+  <summary>📜 Task 1 : Development of C Based LAB </summary>
+
+![C Code compiled on gcc Compiler](https://github.com/user-attachments/assets/bd8429ec-23df-4fa4-9ca7-788d9e5befa7)
+
+![C Code compiled on riscv gcc Compiler](https://github.com/user-attachments/assets/8d30a9e8-ff7f-4d84-88ce-7f7bf6364a15)
+
+![Cat command for Code Display](https://github.com/user-attachments/assets/f08ed42c-ec33-487b-ada5-56fcca0de43e)
+
+![Objdump using -O1 format](https://github.com/user-attachments/assets/de0dfade-b114-4417-a3c5-ca6e793e1961)
+
+![Objdump using -Ofast format](https://github.com/user-attachments/assets/4a0f67a8-af2b-436a-91a5-c1b3fab28aa5)
+
+
+
+
+
+
+
