@@ -210,18 +210,23 @@ tions.md…]()
 
 ![instructions](https://github.com/user-attachments/assets/dc8821ed-a8c7-464d-8f2d-1abdce3ecc77)
 
-1. add
-   
+1. add r6,r1,r2
 ![add](https://github.com/user-attachments/assets/f3aa4dc6-1e62-40a6-9db6-10aea5ae7ab2)
 
-2. and
-
+2. and r8,r1,r3
 ![and](https://github.com/user-attachments/assets/5dc78647-5430-41ff-b4d0-95059f9f65e7)
    
-3. beq
-
+3. beq r0,r0,r15
 ![beq](https://github.com/user-attachments/assets/437e502e-ab45-4e3f-9846-acc20cf1a0ee)
-   
+
+6. xor r10,r1,r4
+![xor](https://github.com/user-attachments/assets/d9b45186-0549-481c-9657-ea59c682da2e)
+
+7. sub r7,r1,r2
+![sub1](https://github.com/user-attachments/assets/c22924cb-3e9b-4a33-9776-11631a6b74aa)
+
+8. slt r11,r2,r4
+![slt](https://github.com/user-attachments/assets/5f1cf316-8bd2-45d9-802d-fa7a3e855e64)
 
 
 
