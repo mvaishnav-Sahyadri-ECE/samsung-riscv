@@ -254,9 +254,7 @@ tions.md…]()
 8. addi r12,r4,5
 ![addi](https://github.com/user-attachments/assets/d7c794c3-0453-4ec0-a860-11e593029115)
 
-RISC-V 32-bit Instructions with Corresponding Assembly Code :
-
-Thank you for the close-up! Now, I'll carefully extract the instructions and correctly place them into the table.  
+RISC-V 32-bit Instructions with Corresponding Assembly Code :  
 
 ---
 
@@ -279,8 +277,6 @@ Thank you for the close-up! Now, I'll carefully extract the instructions and cor
 | `32'h00271803`       | `srl r16, r14, r2(2)`         |
 
 ---
-
-Now everything is correctly transcribed from the image. Thanks for your patience! Let me know if you want any further verification or modifications. 😊
 
 waveforms
 ![waveforms](https://github.com/user-attachments/assets/b37e106d-f853-4a04-99e8-420fa8d44038)
