@@ -206,23 +206,21 @@ tions.md…]()
    Open your terminal and type the following to install 
    iverilog and GTKWave
    
-    ```http
     sudo apt install iverilog
     sudo apt install gtkwave
-    ```
+    
     
 2. To run and simulate the verilog code
    
-   ```http
-   iverilog -o iiitb_rv32i iiitb_rv32i.v iiitb_rv32i_tb.v
-   ./iiitb_rv32i
-   ```
+    ```http
+    iverilog -o iiitb_rv32i iiitb_rv32i.v iiitb_rv32i_tb.v./iiitb_rv32i
+    ```
 
 4. To see the simulation waveform in GTKWave
    
-   ```http
+    ```http
     gtkwave iiitb_rv32i.vcd
-   ```
+    ```
    
 ![terminalinstructions](https://github.com/user-attachments/assets/dfb8947f-cea8-4fc5-a9f9-7946365be2dc)
 
