@@ -10,6 +10,7 @@ This program offers an opportunity to gain practical knowledge and industry insi
 ## Name : M Vaishnav
 ## College : Sahyadri College of Engineering and Management, Adyar, Mangaluru.
 ## Email ID : mvaishnavofficial@gmail.com 
+## LinkedIn : [M Vaishnav](https://www.linkedin.com/in/m-vaishnav-7a215826a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 <details>
