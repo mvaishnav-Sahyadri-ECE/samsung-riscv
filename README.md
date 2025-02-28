@@ -254,6 +254,34 @@ tions.md…]()
 8. addi r12,r4,5
 ![addi](https://github.com/user-attachments/assets/d7c794c3-0453-4ec0-a860-11e593029115)
 
+RISC-V 32-bit Instructions with Corresponding Assembly Code :
+
+Thank you for the close-up! Now, I'll carefully extract the instructions and correctly place them into the table.  
+
+---
+
+| **Instruction (Hex)** | **Assembly Instruction**       |
+|----------------------|--------------------------------|
+| `32'h02208300`       | `add r6, r1, r2`               |
+| `32'h02209380`       | `sub r7, r1, r2`               |
+| `32'h0230A400`       | `and r8, r1, r3`               |
+| `32'h02513480`       | `or r9, r2, r5`                |
+| `32'h0240C500`       | `xor r10, r1, r4`              |
+| `32'h02415580`       | `slt r11, r2, r4`              |
+| `32'h00520600`       | `addi r12, r4, 5`              |
+| `32'h00209181`       | `sw r3, r1, 2`                 |
+| `32'h00208681`       | `lw r13, r1, 2`                |
+| `32'h00F00002`       | `beq r0, r0, 15`               |
+| `32'h00210700`       | `add r14, r2, r2`              |
+| `32'h01409002`       | `bne r0, r1, 20`               |
+| `32'h0052061`        | `addi r12, r4, 5`              |
+| `32'h00208783`       | `sll r15, r1, r2(2)`           |
+| `32'h00271803`       | `srl r16, r14, r2(2)`         |
+
+---
+
+Now everything is correctly transcribed from the image. Thanks for your patience! Let me know if you want any further verification or modifications. 😊
+
 waveforms
 ![waveforms](https://github.com/user-attachments/assets/b37e106d-f853-4a04-99e8-420fa8d44038)
 
