@@ -357,7 +357,7 @@ Code
 </details>
 
 
-<img width="848" height="737" alt="Screenshot 2025-07-31 112128" src="https://github.com/user-attachments/assets/7a2c3d46-fbc7-4e94-a125-d8362e2d0603" />
+<img width="848" height="500" alt="Screenshot 2025-07-31 112128" src="https://github.com/user-attachments/assets/7a2c3d46-fbc7-4e94-a125-d8362e2d0603" />
 
 
 
