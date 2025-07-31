@@ -356,6 +356,7 @@ Code
 
 </details>
 
+[101_Samsung RISC-V Internship Certificate Samsung VTU RISC_print.pdf](https://github.com/user-attachments/files/21523054/101_Samsung.RISC-V.Internship.Certificate.Samsung.VTU.RISC_print.pdf)
 
 
 
